@@ -1,7 +1,5 @@
-# Tinfoil
-A homebrew application for the Nintendo Switch used to manage titles.
-
-DISCLAIMER: I take zero responsibility for any bans, damage, nuclear explosions, or anything else the use of Tinfoil may cause. Proceed with caution!
+# Tinfoil - Archive
+This is an archive of the code used in the original Tinfoil, licensed under the MIT license. Please see https://github.com/XorTroll/Goldleaf/ for a title installer under active development.
 
 ## Installation
 1. Install FS sig patches, there are two ways of doing this:
